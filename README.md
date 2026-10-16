@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a programmer passionate about Web, App and Gam
 I'm currently expanding my knowledge in:
 
 - AWS Solution Architect
-- Japanese (Currently Learning N2 )
+- Japanese (N2)
  
 
 Thanks for stopping by, and happy coding💻!
